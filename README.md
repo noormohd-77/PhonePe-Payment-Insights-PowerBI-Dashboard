@@ -134,20 +134,6 @@ Based on the dashboard snapshot:
 - Interactive Dashboard Elements
 - Dynamic Filtering
 
-## 📂 Project Structure
-
-```text
-PhonePe-Payment-Insights-Power-BI/
-│
-├── Phone Pe Data Analysis Project.pbix
-│   └── Power BI Dashboard Project
-│
-├── Phone Pe Project.mp4
-│   └── Dashboard Demonstration Video
-│
-└── README.md
-    └── Project Documentation
-```
 
 ## 🚀 How to Explore This Project
 
